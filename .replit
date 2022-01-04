@@ -1,2 +1,12 @@
+# git add (파일명)
+# git commit -m "날짜"
+# git push -u origin main
+
 language = "python3"
-run = "python 083_AverageScore.py"
+#run = "python 083_PrintString.py"
+#run = "python 068_PrintInsert.py"
+#run = "python 083_AverageScore.py"
+#run = "python 090_PrintDay.py"
+#run = "python 105_PrintPass.py"
+#run = "python 113_PrintManylines.py"
+run = "python 123_MakeTuple.py"
