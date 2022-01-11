@@ -1,2 +1,18 @@
+# git add (파일명)
+# git commit -m '저장날짜'
+# git push -u origin master
+
 language = "python3"
-run = "python 083_AverageScore.py"
+#run = "python 053_PrintString.py"
+#run = "python 068_PrintInsert.py"
+#run = "python 083_AverageScore.py"
+#run = "python 090_PrintDay.py"
+#run = "python 105_PrintPass.py"
+#run = "python 113_PrintMantlines.py"
+#run = "python 123_MakeTuple.py"
+#run = "python 157_DelectList.py"
+#run = "python 158_StringConnect.py"
+#run = "python 168_Dictionary.py"
+#run = "python 185_If.py"
+#run = "python 195_IfPass.py"
+run = "python 202_Elif.py"
